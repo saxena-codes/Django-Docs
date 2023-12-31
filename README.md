@@ -1,59 +1,19 @@
 # Django-Docs
-Going through documentation of Django. Will be storing all django experiments here.
 
-Refer: https://docs.djangoproject.com/en/5.0/
+### Refer: https://docs.djangoproject.com/en/5.0/
 
-## List of concepts explained from Django Documentation
+1. Going through documentation of Django.
+2. Will be writing down all notes taken here - for future reference.
+3. Code generated will also be stored here.
 
-### First Steps
+## Notes List
 
-|Ser| References | Concepts Explained |
-|:-:|------------|--------------------|
-|1.
-| [Overview](https://docs.djangoproject.com/en/5.0/intro/overview/)
-|
-|
-|2.
-| [Installation]()
-|
-|
-|3.
-| [Tutorial - Part 1 - Requests and responses](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
-|
-|
-|3.
-| [Tutorial - Part 2 - Models and the admin site]()
-|
-|
-|4.
-| [Tutorial - Part 3 - Views and templates]()
-|
-|
-|5.
-| [Tutorial - Part 4 - Forms and generic views]()
-|
-|
-|6.
-| [Tutorial - Part 5 - Testing]()
-|
-|
-|7.
-| [Tutorial - Part 6 - Static files]()
-|
-|
-|8.
-| [Tutorial - Part 7 - Customizing the admin site]()
-|
-|
-|9.
-| [Tutorial - Part 8 - Adding third party pachages.]()
-|
-|
-|10.
-| [Advanced Tutorials - How to write resuable apps]()
-|
-|
-|11.
-| [Advanced Tutorials - Writing your first patch for Django]()
-|
-|
+|Ser| Documentation Topics | Remarks |
+|:-:|----------------------|---------|
+|1. | [First Steps](first-steps.md) | |
+|2. | [Topic Guides](topic-guides.md) | |
+|3. | [Reference Guides](reference-guides.md) | |
+|4. | ["How to" Guides](how-to-guides.md) | |
+|5. | [The Django Open-Source Project](https://docs.djangoproject.com/en/5.0/#the-django-open-source-project) | |
+
+## The End
