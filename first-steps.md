@@ -4,7 +4,7 @@
 
 |Ser| References | Concepts Explained |
 |:-:|------------|--------------------|
-|1. | [Overview](https://docs.djangoproject.com/en/5.0/intro/overview/) | |
+|1. | [Overview](https://docs.djangoproject.com/en/5.0/intro/overview/) | A generic overview of designing models, `makemigrations`, `migrate` commands for database handling, Python API for accessing data, Admin Interface, URL configs, views and templates. Only gives an overview, nothing specific. Created `news` App inside `mysite` project. Not all things mentioned here are complete. Completed the `news` app using other online resources. |
 |2. | [Installation](https://docs.djangoproject.com/en/5.0/intro/install/) | |
 |3. | [Tutorial - Part 1 - Requests and responses](https://docs.djangoproject.com/en/5.0/intro/tutorial01/) | |
 |4. | [Tutorial - Part 2 - Models and the admin site](https://docs.djangoproject.com/en/5.0/intro/tutorial02/) | |

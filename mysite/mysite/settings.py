@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     # My apps
+    'news.apps.NewsConfig',
     'polls.apps.PollsConfig',
 
     # Default Apps
